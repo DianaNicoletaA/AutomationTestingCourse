@@ -9,7 +9,7 @@
 """
 
 
-# https://www.techlistic.com/p/selenium-practice-form.html
+https://www.techlistic.com/p/selenium-practice-form.html
 
 import time
 
